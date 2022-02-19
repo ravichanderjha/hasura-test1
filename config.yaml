@@ -1,5 +1,6 @@
 version: 3
 endpoint: https://xorz.hasura.app/v1/graphql
+admin_secret: 852852
 metadata_directory: metadata
 actions:
   kind: synchronous
